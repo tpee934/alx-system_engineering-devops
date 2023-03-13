@@ -1,2 +1,5 @@
 /tmp/h$ ./0-hello_world 
 Hello, World
+:/tmp/h$ ./0-hello_world | cat -e
+Hello, World$
+/tmp/h$
